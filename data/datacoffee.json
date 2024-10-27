@@ -53,7 +53,7 @@
     "coffee_title": "Raspberry Currant Frappuccino",
     "coffee_detail": "Made with freshly brewed Teavana® tea, blended juice and ice.",
     "coffee_thumbnails": "https://server-coffeeshop.vercel.app/assets/raspberry_currant_frappuccino_thumbnail.png",
-    "coffee_poster": ".https://server-coffeeshop.vercel.app/assets/raspberry_currant_frappuccino_poster.jpg"
+    "coffee_poster": "https://server-coffeeshop.vercel.app/assets/raspberry_currant_frappuccino_poster.jpg"
   },
   {
     "coffee_id": 9,
