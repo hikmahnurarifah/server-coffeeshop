@@ -3,15 +3,15 @@
     "coffee_id": 1,
     "coffee_title": "Caffè Latte",
     "coffee_detail": "Rich, full-bodied espresso in steamed milk, lightly topped with foam. A caffè latte is simply a shot or two of bold, tasty espresso with fresh, sweet steamed milk over it.",
-    "coffee_thumbnails": "./caffe_latte_thumbnail.png",
-    "coffee_poster": "./caffe_latte_poster.jpg"
+    "coffee_thumbnails": "/caffe_latte_thumbnail.png",
+    "coffee_poster": "/caffe_latte_poster.jpg"
   },
   {
     "coffee_id": 2,
     "coffee_title": "Cappuccino",
     "coffee_detail": "Espresso with steamed milk, topped with a deep layer of foam.",
-    "coffee_thumbnails": "cappuccino_thumbnail.png",
-    "coffee_poster": "./assets/cappuccino_poster.jpg"
+    "coffee_thumbnails": "/cappuccino_thumbnail.png",
+    "coffee_poster": "/cappuccino_poster.jpg"
   },
   {
     "coffee_id": 3,
