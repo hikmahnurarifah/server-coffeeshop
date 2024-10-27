@@ -46,7 +46,7 @@
     "coffee_title": "Mango Passion Frappuccino",
     "coffee_detail": "A tropical mango and passionfruit infusion, perfectly blended with a fruity hibiscus tea and ice.",
     "coffee_thumbnails": "mango_passion_frappuccino_thumbnail.png",
-    "coffee_poster": "./assets/mango_passion_frappuccino_poster.jpg"
+    "coffee_poster": "https://server-coffeeshop.vercel.app/mango_passion_frappuccino_thumbnail.png"
   },
   {
     "coffee_id": 8,
