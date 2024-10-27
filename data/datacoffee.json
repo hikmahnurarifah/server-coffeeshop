@@ -4,7 +4,7 @@
     "coffee_title": "Caffè Latte",
     "coffee_detail": "Rich, full-bodied espresso in steamed milk, lightly topped with foam. A caffè latte is simply a shot or two of bold, tasty espresso with fresh, sweet steamed milk over it.",
     "coffee_thumbnails": "/caffe_latte_thumbnail.png",
-    "coffee_poster": "/caffe_latte_poster.jpg"
+    "coffee_poster": "https://server-coffeeshop.vercel.app/caffe_latte_poster.jpg"
   },
   {
     "coffee_id": 2,
